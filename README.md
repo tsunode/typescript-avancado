@@ -4,7 +4,7 @@
 
 Primeiramente, se você não chegou até aqui através do meu canal, corre lá agora que eu vou te ensinar a como tipar o state do useLocatin no React-Router-Dom v6
 
-[![Typescript Avançado, clica e assista!](https://img.youtube.com/vi/OMxGAO2HaQk/0.jpg)](https://www.youtube.com/watch?v=OMxGAO2HaQk)
+[![Typescript Avançado, clica e assista!](https://img.youtube.com/vi/brjwSMvwINw/0.jpg)](https://www.youtube.com/watch?v=brjwSMvwINw)
 
 > A partir daqui vou considerar que você já viu o vídeo.
 
